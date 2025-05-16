@@ -1,6 +1,6 @@
 # custom_transitions_learning
 
-A new Flutter project.
+This is a Flutter project for testing and debugging custom modules. Based on the Fernando Herrera Flutter Advanced Course from Udemy. 
 
 ## Getting Started
 
