@@ -49,6 +49,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.8"
+  custom_route_transitions_ex_plugin_01:
+    dependency: "direct main"
+    description:
+      name: custom_route_transitions_ex_plugin_01
+      sha256: b28abbc9e8fe5a9fd3247fc5b96a161edb1a4c460ffd0a81d83361cc1611545b
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.1"
   fake_async:
     dependency: transitive
     description:

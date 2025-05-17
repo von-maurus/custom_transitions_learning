@@ -1,6 +1,6 @@
-import 'package:custom_transitions_learning/helpers/route_transitions.dart';
-import 'package:custom_transitions_learning/pages/page2.dart';
 import 'package:flutter/material.dart';
+import 'package:custom_transitions_learning/pages/page2.dart';
+import 'package:custom_route_transitions_ex_plugin_01/custom_route_transitions_ex_plugin_01.dart';
 
 class Page1 extends StatelessWidget {
   const Page1({super.key});
